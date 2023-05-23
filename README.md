@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder2800&label=Profile%20views&color=0e75b6&style=flat" alt="coder2800" /> </p>
 
+## 🙋🏽‍♂️About Me
+
+- I am an Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior ( IIIT Gwalior ) pursuing a Bachelor of Technology in my Third Year.
+- 🌱 I’m currently learning **Gnome Control Center and Gnome Network Displays (:/RTSP)**
+<!-- - 🔭 I’m currently working on [Vitess](https://github.com/vitessio) 
+- 👯 I’m looking to collaborate on [genx](https://crates.io/crates/genx) -->
+- 💬 Ask me about **C/C++,Docker,Gtk+4,Gnome**
 
 
 <h3 align="left">Languages and Tools:</h3>
