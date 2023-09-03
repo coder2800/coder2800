@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder2800&label=Profile%20views&color=0e75b6&style=flat" alt="coder2800" /> </p> -->
 🙋🏽‍♂️About Me
 
-- I am an Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior pursuing a Bachelor of Technology in my Final Year.
+- I am an Information Technology undergraduate student at the Indian Institute of Information Technology, Gwalior pursuing a Bachelor of Technology in Information Technology in my Final Year.
 - 💬 Connect with me to collaborate on **React.js, Node.js, JavaScript, Computer Networking, Docker, Kubernetes**
 
 <h3 align="left">Languages and Tools:</h3>
