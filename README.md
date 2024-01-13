@@ -12,6 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder2800&show_icons=true&locale=en&layout=compact" alt="coder2800" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder2800&" alt="coder2800" /></p>
-
